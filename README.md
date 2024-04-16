@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNwdWFudGp6OXE4bnFpdjNucXN1MmV4c3ExeWxxMzd6eTZ0Z3J2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4YsfMPYdy568xTzQHc/giphy.gif" width="80">  Hi, I'm Daniela
 
-🚀 Continuously evolving as a Frontend developer, delving into the fascinating realm of React and other technologies to craft impactful web experiences. Ready to turn ideas into code and push the boundaries of the web! 💻✨
+🌐 Continuously expanding my horizons as a web developer, exploring new technologies to craft impactful and efficient digital experiences. 💡✨🚀
 
 
 ## 🧠 I'm currently learning <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjU2ano4NHdsZXB1enJ5Y2doaHFycWl1bGt2NmM1N2p3eG5wOHBveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/puiJGJ5TuGQcRenHji/giphy.gif" width="50">
